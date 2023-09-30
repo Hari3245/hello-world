@@ -1,0 +1,20 @@
+npm install react-router-dom
+
+npm install sweetalert
+
+npm install bootstrap
+
+npm install redux
+
+npm install react-redux
+
+https://firstenquiry.com/blogs/what-is-redux
+
+
+
+
+
+
+
+
+react redux
